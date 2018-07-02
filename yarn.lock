@@ -169,7 +169,7 @@
   dependencies:
     tslib "^1.9.0"
 
-"@angular/platform-server@^6.0.7":
+"@angular/platform-server@^6.0.3":
   version "6.0.7"
   resolved "https://registry.yarnpkg.com/@angular/platform-server/-/platform-server-6.0.7.tgz#90892ad02c268578c5e0d978ed0f8d30c986be9e"
   dependencies:
